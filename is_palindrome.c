@@ -4,6 +4,10 @@
 
 bool is_palindrome(char *str);
 
+/**
+ * main - the main function
+ * Return: 0 (Success)
+ */
 int main(void)
 {
 	char *str1 = "racecar";
@@ -32,6 +36,11 @@ int main(void)
 	return (0);
 }
 
+/**
+ * is_palindrome - helper function to determine if a string is a palindrome
+ * @str: the string to be checked
+ * Return: a boolean value, true if a string is a palindrome, false otherwise
+ */
 bool is_palindrome(char *str)
 {
 	int index;
