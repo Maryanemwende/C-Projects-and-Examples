@@ -1,0 +1,1 @@
+This directory contains files in which I explore strings in C and different actions that can be perfromed on them
