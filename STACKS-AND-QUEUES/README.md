@@ -1,5 +1,5 @@
 Both stacks and queues in C are data structures that can be implemented using either arrays or linked lists.
-###Herein you will find examples and programs on the following topics:
+### Herein you will find examples and programs on the following topics:
 Stack in C
 Array implementation of a Stack
 Linked list implementation of a Stack
